@@ -1,10 +1,10 @@
 # Tugas Kelompok LAB Kelompok 1
 
-## 👨‍💼 Program Penggajian Bulanan Karyawan
+## Program Penggajian Bulanan Karyawan
 
 Program ini dibuat untuk menghitung gaji bulanan karyawan berdasarkan golongan dan jam lembur.
 
-### 📁 Struktur Direktori
+### Struktur Direktori
 
 ```
 LAB Team Assignment 1/
@@ -17,14 +17,14 @@ LAB Team Assignment 1/
 └── README.md       # Dokumentasi
 ```
 
-### 👥 Anggota Kelompok
+### Anggota Kelompok
 1. ANDREAS ARNOL - 2802631564
 2. JESSICA FREZA KUMALA - 2802642776
 3. SAFIRA TAFANI CHOLISI - 2802647000
 4. SHANIA ASTI MAFAZA - 2802638860
 5. WAHYU ARDANI SETIAWAN - 2802634862
 
-### 🔹 Input 1: Data Karyawan
+### Input 1: Data Karyawan
 
 - ID Pegawai (NIP)
 - Nama
@@ -35,7 +35,7 @@ LAB Team Assignment 1/
 
 Berdasarkan golongan yang dipilih, sistem akan otomatis menentukan **gaji pokok**.
 
-#### 💰 Gaji Pokok berdasarkan Golongan:
+### Gaji Pokok berdasarkan Golongan:
 
 | Golongan | Gaji Pokok  |
 |----------|-------------|
@@ -45,7 +45,7 @@ Berdasarkan golongan yang dipilih, sistem akan otomatis menentukan **gaji pokok*
 
 ---
 
-### 🕐 Upah Lembur:
+### Upah Lembur:
 
 | Golongan | Tarif Lembur (per jam) |
 |----------|------------------------|
@@ -55,7 +55,7 @@ Berdasarkan golongan yang dipilih, sistem akan otomatis menentukan **gaji pokok*
 
 ---
 
-### 🔸 Input 2: Data Lembur
+### Input 2: Data Lembur
 
 Untuk menghitung total gaji setelah mempertimbangkan lembur, program akan meminta:
 
@@ -65,7 +65,7 @@ Untuk menghitung total gaji setelah mempertimbangkan lembur, program akan memint
 
 ---
 
-### 📋 Input 3: Daftar Pegawai
+### Input 3: Daftar Pegawai
 
 Fitur ini menampilkan daftar semua karyawan yang telah diinput sebelumnya dengan informasi:
 
@@ -79,7 +79,7 @@ Fitur ini menampilkan daftar semua karyawan yang telah diinput sebelumnya dengan
 
 ---
 
-### 🛠️ Cara Kompilasi Program
+### Cara Kompilasi Program
 
 Untuk mengkompilasi program, gunakan perintah make berikut:
 
@@ -87,7 +87,7 @@ Untuk mengkompilasi program, gunakan perintah make berikut:
 make
 ```
 
-### 🛠️ Cara Menjalankan Program
+### Cara Menjalankan Program
 
 Setelah dikompilasi, Anda dapat menjalankan program dengan:
 
@@ -95,7 +95,7 @@ Setelah dikompilasi, Anda dapat menjalankan program dengan:
 ./bin/program
 ```
 
-### 🧹 Membersihkan File Kompilasi
+### Membersihkan File Kompilasi
 
 Untuk membersihkan file objek dan executable:
 
@@ -105,7 +105,7 @@ make clean
 
 ---
 
-### 🚀 Alur Program
+### Alur Program
 
 1. Saat program dijalankan, akan muncul menu pilihan.
 2. Pilihan pertama memungkinkan Anda memasukkan data karyawan (termasuk golongan).
